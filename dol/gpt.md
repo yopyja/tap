@@ -140,18 +140,18 @@ ChatGPT can provide advice on how to negotiate a salary, including strategies fo
 `"Research industry standards for your position, consider your experience and skills, be prepared to give a salary range, practice negotiation beforehand, and remember it's not just about salary - consider benefits and other perks."`
 
 
-| **Tip #** | **Salary Negotiation Tip**               | **Explanation**                                                                                          |
-|-------|--------------------------------------|------------------------------------------------------------------------------------------------------|
-| 1     | **Do Your Research**                     | Before negotiating, research the average salary for the position in your industry and location. This will give you a benchmark to aim for.                  |
-| 2     | **Practice Negotiation Skills**          | Practice your negotiation conversation with a friend or family member. This will help you to be more confident and articulate during the actual negotiation. |
-| 3     | **Be Prepared to Explain Your Worth**    | Be ready to explain why you deserve the salary you are asking for. Highlight your skills, experience, and contributions.                                   |
-| 4     | **Don't Be the First to Give a Number**  | Let the employer make the first offer. This can give you an advantage as you can then negotiate up from their initial offer.                               |
-| 5     | **Be Patient**                           | Don’t feel pressured to accept the first offer. Take your time to think it over and, if necessary, make a counteroffer.                                     |
-| 6     | **Consider the Entire Package**          | Salary is just one part of the compensation. Consider other benefits like health insurance, retirement plans, and paid time off.                            |
-| 7     | **Use Positive Language**                | Use positive and collaborative language. This shows that you are not only interested in your benefit but also in the success of the company.                |
-| 8     | **Be Ready to Walk Away**                | Know your worth and be prepared to walk away if the offer does not meet your expectations. This can sometimes lead to a better offer.                        |
-| 9     | **Get the Offer in Writing**             | Once you have negotiated your salary and benefits, ask for a written offer. This ensures that there are no misunderstandings later on.                       |
-| 10    | **Express Gratitude**                    | Regardless of the outcome, thank the employer for the opportunity to discuss your compensation. This leaves a positive impression.                          |
+| **Salary Negotiation Tip**               | **Explanation**                                                                                          |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Do Your Research                         | Before negotiating, research the average salary for the position in your industry and location. This will give you a benchmark to aim for.                  |
+| Practice Negotiation Skills              | Practice your negotiation conversation with a friend or family member. This will help you to be more confident and articulate during the actual negotiation. |
+| Be Prepared to Explain Your Worth        | Be ready to explain why you deserve the salary you are asking for. Highlight your skills, experience, and contributions.                                   |
+| Don't Be the First to Give a Number      | Let the employer make the first offer. This can give you an advantage as you can then negotiate up from their initial offer.                               |
+| Be Patient                               | Don’t feel pressured to accept the first offer. Take your time to think it over and, if necessary, make a counteroffer.                                     |
+| Consider the Entire Package              | Salary is just one part of the compensation. Consider other benefits like health insurance, retirement plans, and paid time off.                            |
+| Use Positive Language                    | Use positive and collaborative language. This shows that you are not only interested in your benefit but also in the success of the company.                |
+| Be Ready to Walk Away                    | Know your worth and be prepared to walk away if the offer does not meet your expectations. This can sometimes lead to a better offer.                        |
+| Get the Offer in Writing                 | Once you have negotiated your salary and benefits, ask for a written offer. This ensures that there are no misunderstandings later on.                       |
+| Express Gratitude                        | Regardless of the outcome, thank the employer for the opportunity to discuss your compensation. This leaves a positive impression.                          |
 
 ---
 
